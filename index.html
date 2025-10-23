@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customizable Japanese Vocabulary Quiz</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="style.css"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="bg-gray-50 min-h-screen flex items-center justify-center font-sans p-4">
+
+    <!-- Main Application Container -->
+    <div id="app" class="w-full max-w-lg bg-white rounded-xl shadow-2xl p-6 md:p-8 border border-gray-200">
+        <h1 class="text-3xl font-extrabold text-center text-indigo-700 mb-6">Jolly Japanese Quiz App</h1>
+        <button onclick="getStartClick()" class="w-full mb-3 py-3 bg-indigo-600 text-white font-bold rounded-xl hover:bg-indigo-700 transition duration-150">Get Start</button>
+        <!-- Content will be rendered here -->
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>

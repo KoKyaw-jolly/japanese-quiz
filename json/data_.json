@@ -1,0 +1,154 @@
+[
+  {
+    "hirakana": "わたし",
+    "katakana": "ワタシ",
+    "romaji": "watashi",
+    "kanji": "私",
+    "meaning": "I/me",
+    "chapter": "ch-1"
+  },
+  {
+    "hirakana": "せんせい",
+    "katakana": "センセイ",
+    "romaji": "sensei",
+    "kanji": "先生",
+    "meaning": "teacher",
+    "chapter": "ch-1"
+  },
+  {
+    "hirakana": "がくせい",
+    "katakana": "ガクセイ",
+    "romaji": "gakusei",
+    "kanji": "学生",
+    "meaning": "student",
+    "chapter": "ch-1"
+  },
+  {
+    "hirakana": "ともだち",
+    "katakana": "トモダチ",
+    "romaji": "tomodachi",
+    "kanji": "友達",
+    "meaning": "friend",
+    "chapter": "ch-1"
+  },
+  {
+    "hirakana": "にほん",
+    "katakana": "ニホン",
+    "romaji": "nihon",
+    "kanji": "日本",
+    "meaning": "Japan",
+    "chapter": "ch-1"
+  },
+  {
+    "hirakana": "くるま",
+    "katakana": "クルマ",
+    "romaji": "kuruma",
+    "kanji": "車",
+    "meaning": "car",
+    "chapter": "ch-2"
+  },
+  {
+    "hirakana": "やさい",
+    "katakana": "ヤサイ",
+    "romaji": "yasai",
+    "kanji": "野菜",
+    "meaning": "vegetable",
+    "chapter": "ch-2"
+  },
+  {
+    "hirakana": "さかな",
+    "katakana": "サカナ",
+    "romaji": "sakana",
+    "kanji": "魚",
+    "meaning": "fish",
+    "chapter": "ch-2"
+  },
+  {
+    "hirakana": "ごはん",
+    "katakana": "ゴハン",
+    "romaji": "gohan",
+    "kanji": "ご飯",
+    "meaning": "rice/meal",
+    "chapter": "ch-2"
+  },
+  {
+    "hirakana": "みず",
+    "katakana": "ミズ",
+    "romaji": "mizu",
+    "kanji": "水",
+    "meaning": "water",
+    "chapter": "ch-2"
+  },
+  {
+    "hirakana": "たかい",
+    "katakana": "タカイ",
+    "romaji": "takai",
+    "kanji": "高い",
+    "meaning": "tall/expensive",
+    "chapter": "ch-3"
+  },
+  {
+    "hirakana": "やすい",
+    "katakana": "ヤスイ",
+    "romaji": "yasui",
+    "kanji": "安い",
+    "meaning": "cheap",
+    "chapter": "ch-3"
+  },
+  {
+    "hirakana": "おおきい",
+    "katakana": "オオキイ",
+    "romaji": "ookii",
+    "kanji": "大きい",
+    "meaning": "big",
+    "chapter": "ch-3"
+  },
+  {
+    "hirakana": "ちいさい",
+    "katakana": "チイサイ",
+    "romaji": "chiisai",
+    "kanji": "小さい",
+    "meaning": "small",
+    "chapter": "ch-3"
+  },
+  {
+    "hirakana": "あたらし",
+    "katakana": "アタラシイ",
+    "romaji": "atarashii",
+    "kanji": "新しい",
+    "meaning": "new",
+    "chapter": "ch-3"
+  },
+  {
+    "hirakana": "おいしい",
+    "katakana": "オイシイ",
+    "romaji": "oishii",
+    "kanji": "美味しい",
+    "meaning": "delicious",
+    "chapter": "ch-4"
+  },
+  {
+    "hirakana": "まずい",
+    "katakana": "マズイ",
+    "romaji": "mazui",
+    "kanji": "不味い",
+    "meaning": "unappetizing",
+    "chapter": "ch-4"
+  },
+  {
+    "hirakana": "げんき",
+    "katakana": "ゲンキ",
+    "romaji": "genki",
+    "kanji": "元気",
+    "meaning": "healthy/energetic",
+    "chapter": "ch-4"
+  },
+  {
+    "hirakana": "しずか",
+    "katakana": "シズカ",
+    "romaji": "shizuka",
+    "kanji": "静か",
+    "meaning": "quiet",
+    "chapter": "ch-4"
+  }
+]

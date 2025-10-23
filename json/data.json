@@ -1,0 +1,586 @@
+[
+    {
+        "hirakana": "わたし",
+        "katakana": "",
+        "romaji": "watashi",
+        "kanji": "私",
+        "meaning": "ကျွန်တော်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "あなた",
+        "katakana": "",
+        "romaji": "anata",
+        "kanji": "",
+        "meaning": "သင်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "あのひと / あのかた",
+        "katakana": "",
+        "romaji": "anohito / anokata",
+        "kanji": "",
+        "meaning": "ဟိုလူ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "〜さん",
+        "katakana": "",
+        "romaji": "san",
+        "kanji": "",
+        "meaning": "ဦး/ဒေါ်/ကို/မ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "〜ちゃん",
+        "katakana": "",
+        "romaji": "chan",
+        "kanji": "",
+        "meaning": "မောင်/မ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "〜じん",
+        "katakana": "",
+        "romaji": "jin",
+        "kanji": "〜人",
+        "meaning": "လူမျိုး",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "せんせい",
+        "katakana": "",
+        "romaji": "sensei",
+        "kanji": "先生",
+        "meaning": "ဆရာ/ဆရာမ (အခေါ်)",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "きょうし",
+        "katakana": "",
+        "romaji": "kyoushi",
+        "kanji": "教師",
+        "meaning": "ကျောင်းဆရာ (အလုပ်)",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "がくせい",
+        "katakana": "",
+        "romaji": "gakusei",
+        "kanji": "学生",
+        "meaning": "ကျောင်းသား",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "かいしゃいん",
+        "katakana": "",
+        "romaji": "kaishain",
+        "kanji": "会社員",
+        "meaning": "ကုမ္ပဏီဝန်ထမ်း",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "しゃいん",
+        "katakana": "",
+        "romaji": "shain",
+        "kanji": "社員",
+        "meaning": "ဝန်ထမ်း",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "ぎんこういん",
+        "katakana": "",
+        "romaji": "ginkouin",
+        "kanji": "銀行員",
+        "meaning": "ဘဏ်ဝန်ထမ်း",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "いしゃ",
+        "katakana": "",
+        "romaji": "isha",
+        "kanji": "医者",
+        "meaning": "ဆရာဝန်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "けんきゅうしゃ",
+        "katakana": "",
+        "romaji": "kenkyuusha",
+        "kanji": "研究者",
+        "meaning": "သုတေသနပညာရှင်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "だいがく",
+        "katakana": "",
+        "romaji": "daigaku",
+        "kanji": "大学",
+        "meaning": "တက္ကသိုလ်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "びょういん",
+        "katakana": "",
+        "romaji": "byouin",
+        "kanji": "病院",
+        "meaning": "ဆေးရုံ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "だれ(どなた)",
+        "katakana": "",
+        "romaji": "dare(donata)",
+        "kanji": "",
+        "meaning": "ဘယ်သူ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "〜さい",
+        "katakana": "",
+        "romaji": "〜sai",
+        "kanji": "〜歳",
+        "meaning": "〜နှစ်(အသက်)",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "なんさい",
+        "katakana": "",
+        "romaji": "nansai",
+        "kanji": "何歳",
+        "meaning": "အသက်ဘယ်လောက်လဲ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "はい",
+        "katakana": "",
+        "romaji": "hai",
+        "kanji": "",
+        "meaning": "ဟုတ်ကဲ့ Yes",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "いいえ",
+        "katakana": "",
+        "romaji": "iie",
+        "kanji": "",
+        "meaning": "ဟင့်အင်း",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "",
+        "katakana": "アメリカ",
+        "romaji": "amerika",
+        "kanji": "",
+        "meaning": "အမေရိက",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "",
+        "katakana": "イギリス",
+        "romaji": "igirisu",
+        "kanji": "",
+        "meaning": "အင်္ဂလန်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "",
+        "katakana": "インド",
+        "romaji": "indo",
+        "kanji": "",
+        "meaning": "အိန္ဒိယ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "",
+        "katakana": "インドネシア",
+        "romaji": "indoneshia",
+        "kanji": "",
+        "meaning": "အင်ဒိုနီးရှား",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "かんこく",
+        "katakana": "",
+        "romaji": "kankoku",
+        "kanji": "韓国",
+        "meaning": "ကိုရီးယား",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "",
+        "katakana": "タイ",
+        "romaji": "tai",
+        "kanji": "",
+        "meaning": "ထိုင်း",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "ちゅうごく",
+        "katakana": "",
+        "romaji": "chuugoku",
+        "kanji": "中国",
+        "meaning": "တရုတ်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ドイツ",
+        "romaji": "doitsu",
+        "kanji": "",
+        "meaning": "ဂျာမနီ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "にほん",
+        "katakana": "",
+        "romaji": "nihon",
+        "kanji": "日本",
+        "meaning": "ဂျပန်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ブラジル",
+        "romaji": "burajiru",
+        "kanji": "",
+        "meaning": "ဘရာဇီး",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "はじめまして",
+        "katakana": "",
+        "romaji": "hajimemashite",
+        "kanji": "",
+        "meaning": "တွေ့ရတာဝမ်းသာပါတယ်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "〜から きました",
+        "katakana": "",
+        "romaji": "〜kara kimashita",
+        "kanji": "",
+        "meaning": "〜မှလာခဲ့ပါတယ်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "しつれいですが",
+        "katakana": "",
+        "romaji": "shitsurei desuga",
+        "kanji": "失礼ですが",
+        "meaning": "တစိတ်လောက်",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "おなまえは？",
+        "katakana": "",
+        "romaji": "onamaewa",
+        "kanji": "お名前は？",
+        "meaning": "နာမည်ဘလိုခေါ်ပါသလဲ",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "こちらは 〜さんです。",
+        "katakana": "",
+        "romaji": "kochirawa 〜sandesu",
+        "kanji": "",
+        "meaning": "ဒီဘက်ကတော့ 〜ဖြစ်ပါတယ်။",
+        "chapter": "Ch-1"
+    },
+    {
+        "hirakana": "これ",
+        "katakana": "",
+        "romaji": "kore",
+        "kanji": "",
+        "meaning": "ဒီဟာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "それ",
+        "katakana": "",
+        "romaji": "sore",
+        "kanji": "",
+        "meaning": "အဲ့ဒိဟာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "あれ",
+        "katakana": "",
+        "romaji": "are",
+        "kanji": "",
+        "meaning": "ဟိုးကဟာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "この〜",
+        "katakana": "",
+        "romaji": "kono",
+        "kanji": "",
+        "meaning": "ဒီဟာ〜",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "その〜",
+        "katakana": "",
+        "romaji": "sono",
+        "kanji": "",
+        "meaning": "အဲ့ဒိဟာ〜",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "あの〜",
+        "katakana": "",
+        "romaji": "ano",
+        "kanji": "",
+        "meaning": "ဟိုးကဟာ〜",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "ほん",
+        "katakana": "",
+        "romaji": "hon",
+        "kanji": "本",
+        "meaning": "စာအုပ်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "じしょ",
+        "katakana": "",
+        "romaji": "jisho",
+        "kanji": "辞書",
+        "meaning": "အဘိဓာန်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "ざっし",
+        "katakana": "",
+        "romaji": "zasshi",
+        "kanji": "雑誌",
+        "meaning": "မဂ္ဂဇင်း",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "しんぶん",
+        "katakana": "",
+        "romaji": "shinbun",
+        "kanji": "新聞",
+        "meaning": "သတင်းစာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ノート",
+        "romaji": "nooto",
+        "kanji": "",
+        "meaning": "မှတ်စုစာအုပ်/ဗလာစာအုပ်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "てちょう",
+        "katakana": "",
+        "romaji": "techou",
+        "kanji": "",
+        "meaning": "အိပ်ဆောင်မှတ်စု",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "めいし",
+        "katakana": "",
+        "romaji": "meishi",
+        "kanji": "名詞",
+        "meaning": "လိပ်စာကဒ်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "カード",
+        "romaji": "kaado",
+        "kanji": "",
+        "meaning": "(ခရက်ဒစ်) ကဒ်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "えんぴつ",
+        "katakana": "",
+        "romaji": "enpitsu",
+        "kanji": "鉛筆",
+        "meaning": "ခဲတံ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ボールペン",
+        "romaji": "borupen",
+        "kanji": "",
+        "meaning": "ဘောပင်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "シャープペンシル",
+        "romaji": "shaapupenshiru",
+        "kanji": "",
+        "meaning": "ဆံဘောပင်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "かぎ",
+        "katakana": "",
+        "romaji": "kagi",
+        "kanji": "",
+        "meaning": "သော့",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "とけい",
+        "katakana": "",
+        "romaji": "tokei",
+        "kanji": "時計",
+        "meaning": "နာရီ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "かさ",
+        "katakana": "",
+        "romaji": "kasa",
+        "kanji": "傘",
+        "meaning": "ထီး",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "かばん",
+        "katakana": "",
+        "romaji": "kaban",
+        "kanji": "",
+        "meaning": "အိတ်/လွယ်အိတ်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "CD",
+        "romaji": "shidi",
+        "kanji": "",
+        "meaning": "စီဒီ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "テレビ",
+        "romaji": "terebi",
+        "kanji": "",
+        "meaning": "တီဗီ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ラジオ",
+        "romaji": "rajiro",
+        "kanji": "",
+        "meaning": "ရေဒီယို",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "カメラ",
+        "romaji": "kamera",
+        "kanji": "",
+        "meaning": "ကင်မရာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "コンピューター",
+        "romaji": "konpyuutaa",
+        "kanji": "",
+        "meaning": "ကွန်ပြူတာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "くるま",
+        "katakana": "",
+        "romaji": "kuruma",
+        "kanji": "車",
+        "meaning": "ကား",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "つくえ",
+        "katakana": "",
+        "romaji": "tsukue",
+        "kanji": "机",
+        "meaning": "စာကြည့်ခုံ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "いす",
+        "katakana": "",
+        "romaji": "isu",
+        "kanji": "",
+        "meaning": "ထိုင်ခုံ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "チョコレート",
+        "romaji": "chokoreeto",
+        "kanji": "",
+        "meaning": "ချောကလက်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "",
+        "katakana": "コーヒー",
+        "romaji": "koohii",
+        "kanji": "",
+        "meaning": "ကော်ဖီ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "[お] みやげ",
+        "katakana": "",
+        "romaji": "[o] miyage",
+        "kanji": "[お] 土産",
+        "meaning": "အပြန်လက်ဆောင်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "えいご",
+        "katakana": "",
+        "romaji": "eigo",
+        "kanji": "英語",
+        "meaning": "အင်္ဂလိပ်စာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "にほんご",
+        "katakana": "",
+        "romaji": "nihongo",
+        "kanji": "日本語",
+        "meaning": "ဂျပန်စာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "〜ご",
+        "katakana": "",
+        "romaji": "〜go",
+        "kanji": "〜語",
+        "meaning": "〜စာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "なん",
+        "katakana": "",
+        "romaji": "nan",
+        "kanji": "何",
+        "meaning": "ဘာ/ဘယ်ဟာ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "そう",
+        "katakana": "",
+        "romaji": "sou",
+        "kanji": "",
+        "meaning": "အဲ့လိုကိုးးးး",
+        "chapter": "Ch-2"
+    }
+]
