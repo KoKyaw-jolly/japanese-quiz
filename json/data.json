@@ -582,5 +582,461 @@
         "kanji": "",
         "meaning": "အဲ့လိုကိုးးးး",
         "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "あのう",
+        "katakana": "",
+        "romaji": "anou",
+        "kanji": "",
+        "meaning": "အဲ…ဟို…",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "えつ",
+        "katakana": "",
+        "romaji": "etsu",
+        "kanji": "",
+        "meaning": "ဟင် (မထင်မှတ်ထား)",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "どうぞ",
+        "katakana": "",
+        "romaji": "douzo",
+        "kanji": "",
+        "meaning": "ယူပါ/လက်ခံပါ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "「ども」 ありがとう「ございます」",
+        "katakana": "",
+        "romaji": "「domo」 arigatou 「gozaimasu」",
+        "kanji": "",
+        "meaning": "ကျေးဇူးတင်ပါတယ်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "そうですか",
+        "katakana": "",
+        "romaji": "soudesuka",
+        "kanji": "",
+        "meaning": "ဟုတ်လား",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "ちがいます",
+        "katakana": "",
+        "romaji": "chigaimasu",
+        "kanji": "違います",
+        "meaning": "မဟုတ်ဘူး",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "あ",
+        "katakana": "",
+        "romaji": "a",
+        "kanji": "",
+        "meaning": "အယ်(အံဩ)",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "これから おせわに なります",
+        "katakana": "",
+        "romaji": "korakara osewani narimasu",
+        "kanji": "これから 「お世話に」 なります",
+        "meaning": "အခုချိန်ကစ အကူညီယူပါရစေ",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "こちらこそ 「どうぞ」 よろしく お願いします",
+        "katakana": "",
+        "romaji": "kochirakozo 「douzo」 yurushiku onegaishimasu",
+        "kanji": "",
+        "meaning": "ကျွန်ုပ်ဘက်မှလဲ ရင်းနှီးချင်ပါတယ်",
+        "chapter": "Ch-2"
+    },
+    {
+        "hirakana": "ここ",
+        "katakana": "",
+        "romaji": "koko",
+        "kanji": "",
+        "meaning": "ဒီ(နေရာ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "そこ",
+        "katakana": "",
+        "romaji": "soko",
+        "kanji": "",
+        "meaning": "အဲ့ဒိ(နေရာ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "あそこ",
+        "katakana": "",
+        "romaji": "asoko",
+        "kanji": "",
+        "meaning": "ဟိုးက(နေရာ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "どこ",
+        "katakana": "",
+        "romaji": "doko",
+        "kanji": "",
+        "meaning": "ဘယ်(နေရာ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "こちら",
+        "katakana": "",
+        "romaji": "kochira",
+        "kanji": "",
+        "meaning": "ဒီဘက်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "そちら",
+        "katakana": "",
+        "romaji": "sochira",
+        "kanji": "",
+        "meaning": "အဲ့ဒိဘက်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "あちら",
+        "katakana": "",
+        "romaji": "achira",
+        "kanji": "",
+        "meaning": "ဟိုးဘက်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "どちら",
+        "katakana": "",
+        "romaji": "dochira",
+        "kanji": "",
+        "meaning": "ဘယ်ဘက်(နေရာ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "きょうしつ",
+        "katakana": "",
+        "romaji": "kyoushitsu",
+        "kanji": "教室",
+        "meaning": "စာသင်ခန်း",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "しょくどう",
+        "katakana": "",
+        "romaji": "shokudou",
+        "kanji": "食堂",
+        "meaning": "ထမင်းစားဆောင်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "じむしょ",
+        "katakana": "",
+        "romaji": "jimusho",
+        "kanji": "事務所",
+        "meaning": "ရုံးခန်း",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "かいぎしつ",
+        "katakana": "",
+        "romaji": "kaigishitsu",
+        "kanji": "会議室",
+        "meaning": "အစည်းအဝေးခန်း",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "うけつけ",
+        "katakana": "",
+        "romaji": "uketsuke",
+        "kanji": "受付",
+        "meaning": "ဧည့်ကြိုကောင်တာ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ロビー",
+        "romaji": "robii",
+        "kanji": "",
+        "meaning": "နားနေခန်း",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "へや",
+        "katakana": "",
+        "romaji": "heya",
+        "kanji": "部屋",
+        "meaning": "အခန်း",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "トイレ",
+        "katakana": "",
+        "romaji": "toire",
+        "kanji": "",
+        "meaning": "အိမ်သာ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "かいだん",
+        "katakana": "",
+        "romaji": "kaidan",
+        "kanji": "階段",
+        "meaning": "လှေကား",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "エレベーター",
+        "romaji": "erebeta",
+        "kanji": "",
+        "meaning": "ဓာတ်လှေကား",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "エスカレーター",
+        "romaji": "esukareta",
+        "kanji": "",
+        "meaning": "ရွေ့လျားစက်လှေကား",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "じどうはんばいき",
+        "katakana": "",
+        "romaji": "jidouhanbaiki",
+        "kanji": "自動販売機",
+        "meaning": "အလိုလျောက်စျေးရောင်းစက်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "でんわ",
+        "katakana": "",
+        "romaji": "denwa",
+        "kanji": "電話",
+        "meaning": "တယ်လီဖုန်း",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "「お」くに",
+        "katakana": "",
+        "romaji": "「o」kuni",
+        "kanji": "「お」国",
+        "meaning": "တိုင်းပြည်/နိုင်ငံ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "かいしゃ",
+        "katakana": "",
+        "romaji": "kaisha",
+        "kanji": "会社",
+        "meaning": "ကုမ္ပဏီ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "うち",
+        "katakana": "",
+        "romaji": "uchi",
+        "kanji": "",
+        "meaning": "အိမ်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "くつ",
+        "katakana": "",
+        "romaji": "kutsu",
+        "kanji": "靴",
+        "meaning": "ဖိနပ်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ネクタイ",
+        "romaji": "nekutai",
+        "kanji": "",
+        "meaning": "နက်တိုင်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ワイン",
+        "romaji": "wain",
+        "kanji": "",
+        "meaning": "ဝိုင်(အရက်)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "うりば",
+        "katakana": "",
+        "romaji": "uriba",
+        "kanji": "売り場",
+        "meaning": "အရောင်း(ပစ္စည်း)ထားသောနေရာ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "ちか",
+        "katakana": "",
+        "romaji": "chika",
+        "kanji": "地下",
+        "meaning": "မြေအောက်ထပ်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "〜かい (がい)",
+        "katakana": "",
+        "romaji": "kai/gai",
+        "kanji": "〜階",
+        "meaning": "〜ထပ်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "なんがい",
+        "katakana": "",
+        "romaji": "nankai",
+        "kanji": "何階",
+        "meaning": "ဘယ်နှထပ်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "〜えん",
+        "katakana": "",
+        "romaji": "〜en",
+        "kanji": "〜円",
+        "meaning": "ယန်း",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "いくら",
+        "katakana": "",
+        "romaji": "ikura",
+        "kanji": "",
+        "meaning": "ဘယ်လောက်လဲ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "ひゃく",
+        "katakana": "",
+        "romaji": "hyaku",
+        "kanji": "百",
+        "meaning": "〜ရာ(ပိုက်ဆံ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "せん",
+        "katakana": "",
+        "romaji": "sen",
+        "kanji": "千",
+        "meaning": "〜ထောင်(ပိုက်ဆံ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "まん",
+        "katakana": "",
+        "romaji": "man",
+        "kanji": "万",
+        "meaning": "〜သောင်း(ပိုက်ဆံ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "すみません",
+        "katakana": "",
+        "romaji": "sumimasen",
+        "kanji": "",
+        "meaning": "တဆိတ်လောက်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "どうも",
+        "katakana": "",
+        "romaji": "doumo",
+        "kanji": "",
+        "meaning": "ကျေးဇူးပါ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "いらっしゃいませ",
+        "katakana": "",
+        "romaji": "irasshaimasen",
+        "kanji": "",
+        "meaning": "ကြိုဆိုပါတယ်(ဆိုင်မှ)",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "「〜を」みせてください",
+        "katakana": "",
+        "romaji": "mesete kudasai",
+        "kanji": "",
+        "meaning": "〜ကို ပြပေးပါ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "「〜を」くだせい",
+        "katakana": "",
+        "romaji": "kudasei",
+        "kanji": "",
+        "meaning": "〜ကို ပေးပါ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "イタリア",
+        "romaji": "itaria",
+        "kanji": "",
+        "meaning": "အီတလီ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "スイス",
+        "romaji": "suisu",
+        "kanji": "",
+        "meaning": "ဆွစ်ဇလန်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "フランス",
+        "romaji": "furansu",
+        "kanji": "",
+        "meaning": "ပြင်သစ်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ジャカルタ",
+        "romaji": "jyakaruta",
+        "kanji": "",
+        "meaning": "ဂျာကာတာ",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "バンコク",
+        "romaji": "bankoku",
+        "kanji": "",
+        "meaning": "ဘန်ကောက်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "",
+        "katakana": "ベルリン",
+        "romaji": "berurin",
+        "kanji": "",
+        "meaning": "ဘာလင်",
+        "chapter": "Ch-3"
+    },
+    {
+        "hirakana": "しんおおさか",
+        "katakana": "",
+        "romaji": "shinoosaka",
+        "kanji": "新大阪",
+        "meaning": "ရှင်းအိုဆာကာ(အိုဆာကာရှိဘူတာ)",
+        "chapter": "Ch-3"
     }
 ]
