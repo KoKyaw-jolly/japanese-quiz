@@ -1038,5 +1038,453 @@
         "kanji": "新大阪",
         "meaning": "ရှင်းအိုဆာကာ(အိုဆာကာရှိဘူတာ)",
         "chapter": "Ch-3"
-    }
+    },
+      {
+    "hirakana": "おきます",
+    "katakana": "",
+    "romaji": "okimasu",
+    "kanji": "起きます",
+    "meaning": "အိပ်ယာထသည်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ねます",
+    "katakana": "",
+    "romaji": "nemasu",
+    "kanji": "寝ます",
+    "meaning": "အိပ်သည်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "はたらきます",
+    "katakana": "",
+    "romaji": "hatarakimasu",
+    "kanji": "働きます",
+    "meaning": "အလုပ်လုပ်သည်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "やすみます",
+    "katakana": "",
+    "romaji": "yasumimasu",
+    "kanji": "休みます",
+    "meaning": "အနားယူသည်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "べんきょうします",
+    "katakana": "",
+    "romaji": "benkyoushimasu",
+    "kanji": "勉強します",
+    "meaning": "စာလေ့လာသည်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "おわります",
+    "katakana": "",
+    "romaji": "owarimasu",
+    "kanji": "終わります",
+    "meaning": "ပြီးဆုံးသည်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "",
+    "katakana": "デパート",
+    "romaji": "depaato",
+    "kanji": "",
+    "meaning": "ကုန်တိုက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ぎんこう",
+    "katakana": "",
+    "romaji": "ginkou",
+    "kanji": "銀行",
+    "meaning": "ဘဏ်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ゆうびんきょく",
+    "katakana": "",
+    "romaji": "yuubinkyoku",
+    "kanji": "郵便局",
+    "meaning": "စာတိုက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "としょかん",
+    "katakana": "",
+    "romaji": "toshokan",
+    "kanji": "図書館",
+    "meaning": "စာကြည့်တိုက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "びじゅつかん",
+    "katakana": "",
+    "romaji": "bijutsukan",
+    "kanji": "美術館",
+    "meaning": "အနုပညာပြတိုက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "いま",
+    "katakana": "",
+    "romaji": "ima",
+    "kanji": "今",
+    "meaning": "အခု",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "〜じ",
+    "katakana": "",
+    "romaji": "~ji",
+    "kanji": "〜時",
+    "meaning": "〜နာရီ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "〜ふん (〜ぶん)",
+    "katakana": "",
+    "romaji": "~fun (~pun)",
+    "kanji": "〜分",
+    "meaning": "〜မိနစ်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "はん",
+    "katakana": "",
+    "romaji": "han",
+    "kanji": "半",
+    "meaning": "ခွဲ/တစ်ဝက် (နာရီ)",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "なんじ",
+    "katakana": "",
+    "romaji": "nanji",
+    "kanji": "何時",
+    "meaning": "ဘယ်နှနာရီ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "なんぷん",
+    "katakana": "",
+    "romaji": "nanpun",
+    "kanji": "何分",
+    "meaning": "ဘယ်နှမိနစ်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ごぜん",
+    "katakana": "",
+    "romaji": "gozen",
+    "kanji": "午前",
+    "meaning": "နံနက်ပိုင်း (AM)",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ごご",
+    "katakana": "",
+    "romaji": "gogo",
+    "kanji": "午後",
+    "meaning": "မွန်းလွှဲပိုင်း (PM)",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "あさ",
+    "katakana": "",
+    "romaji": "asa",
+    "kanji": "朝",
+    "meaning": "နံနက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ひる",
+    "katakana": "",
+    "romaji": "hiru",
+    "kanji": "昼",
+    "meaning": "နေ့လည်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ばん　(よる)",
+    "katakana": "",
+    "romaji": "ban (yoru)",
+    "kanji": "晩 (夜)",
+    "meaning": "ည",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "おととい",
+    "katakana": "",
+    "romaji": "ototoi",
+    "kanji": "一昨日",
+    "meaning": "တစ်နေ့က",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "きのう",
+    "katakana": "",
+    "romaji": "kinou",
+    "kanji": "昨日",
+    "meaning": "မနေ့က",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "きょう",
+    "katakana": "",
+    "romaji": "kyou",
+    "kanji": "今日",
+    "meaning": "ဒီနေ့",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "あした",
+    "katakana": "",
+    "romaji": "ashita",
+    "kanji": "明日",
+    "meaning": "မနက်ဖြန်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "あさって",
+    "katakana": "",
+    "romaji": "asatte",
+    "kanji": "明後日",
+    "meaning": "သဘတ်ခါ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "けさ",
+    "katakana": "",
+    "romaji": "kesa",
+    "kanji": "今朝",
+    "meaning": "ဒီမနက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "こんばん",
+    "katakana": "",
+    "romaji": "konban",
+    "kanji": "今晩",
+    "meaning": "ဒီည",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "やすみ",
+    "katakana": "",
+    "romaji": "yasumi",
+    "kanji": "休み",
+    "meaning": "နားချိန်/နားရက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ひるやすみ",
+    "katakana": "",
+    "romaji": "hiruyasumi",
+    "kanji": "昼休み",
+    "meaning": "နေ့ခင်းနားချိန်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "しけん",
+    "katakana": "",
+    "romaji": "shiken",
+    "kanji": "試験",
+    "meaning": "စာမေးပွဲ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "かいぎ",
+    "katakana": "",
+    "romaji": "kaigi",
+    "kanji": "会議",
+    "meaning": "အစည်းအဝေး",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "えいが",
+    "katakana": "",
+    "romaji": "eiga",
+    "kanji": "映画",
+    "meaning": "ရုပ်ရှင်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "まいあさ",
+    "katakana": "",
+    "romaji": "maiasa",
+    "kanji": "毎朝",
+    "meaning": "မနက်တိုင်း",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "まいばん",
+    "katakana": "",
+    "romaji": "maiban",
+    "kanji": "毎晩",
+    "meaning": "ညတိုင်း",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "まいにち",
+    "katakana": "",
+    "romaji": "mainichi",
+    "kanji": "毎日",
+    "meaning": "နေ့တိုင်း",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "げつようび",
+    "katakana": "",
+    "romaji": "getsuyoubi",
+    "kanji": "月曜日",
+    "meaning": "တနင်္လာ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "かようび",
+    "katakana": "",
+    "romaji": "kayoubi",
+    "kanji": "火曜日",
+    "meaning": "အင်္ဂါ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "すいようび",
+    "katakana": "",
+    "romaji": "suiyoubi",
+    "kanji": "水曜日",
+    "meaning": "ဗုဒ္ဓဟူး",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "もくようび",
+    "katakana": "",
+    "romaji": "mokuyoubi",
+    "kanji": "木曜日",
+    "meaning": "ကြာသပတေး",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "きんようび",
+    "katakana": "",
+    "romaji": "kin'youbi",
+    "kanji": "金曜日",
+    "meaning": "သောကြာ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "どようび",
+    "katakana": "",
+    "romaji": "doyoubi",
+    "kanji": "土曜日",
+    "meaning": "စနေ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "にちようび",
+    "katakana": "",
+    "romaji": "nichiyoubi",
+    "kanji": "日曜日",
+    "meaning": "တနင်္ဂနွေ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "なんようび",
+    "katakana": "",
+    "romaji": "nan'youbi",
+    "kanji": "何曜日",
+    "meaning": "ဘယ်နေ့လဲ (Mon to Sun)",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "〜から",
+    "katakana": "",
+    "romaji": "~kara",
+    "kanji": "",
+    "meaning": "〜မှ/ 〜က",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "〜まで",
+    "katakana": "",
+    "romaji": "~made",
+    "kanji": "",
+    "meaning": "〜ထိ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "〜と〜",
+    "katakana": "",
+    "romaji": "~to~",
+    "kanji": "",
+    "meaning": "〜 နှင့် 〜 (N + N)",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "たいへんですね",
+    "katakana": "",
+    "romaji": "taihen desu ne",
+    "kanji": "大変ですね",
+    "meaning": "မလွယ်ဘူးနော်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "ばんごう",
+    "katakana": "",
+    "romaji": "bangou",
+    "kanji": "番号",
+    "meaning": "နံပတ်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "なんばん",
+    "katakana": "",
+    "romaji": "nanban",
+    "kanji": "何番",
+    "meaning": "နံပတ်ဘယ်လောက်လဲ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "そちら",
+    "katakana": "",
+    "romaji": "sochira",
+    "kanji": "",
+    "meaning": "အဲ့ဒိဘက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ニューヨーク",
+    "romaji": "nyuuyooku",
+    "kanji": "",
+    "meaning": "နယူးယောက်",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ペキン",
+    "romaji": "pekin",
+    "kanji": "",
+    "meaning": "ပီကင်း",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ロサンゼルス",
+    "romaji": "rosanzerusu",
+    "kanji": "",
+    "meaning": "လော့စ်အိန်ဂျလိ",
+    "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ロンドン",
+    "romaji": "rondon",
+    "kanji": "",
+    "meaning": "လန်ဒန်",
+    "chapter": "Ch-4"
+  }
 ]
