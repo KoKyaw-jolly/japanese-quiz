@@ -8,15 +8,15 @@ let initialData = [];
  * @returns {string} - The resolved value or 'N/A' if not found.
  */
 function getValueForKey(item, key) {
-  if (key === 'kana') {
+  if (key === "kana") {
     // Prioritize hirakana, but use katakana if hirakana is missing.
     // This solves the original issue by ensuring one kana is always used if available.
-    return item.hirakana || item.katakana || 'N/A';
+    return item.hirakana || item.katakana || "N/A";
   }
-  return item[key] || 'N/A';
+  return item[key] || "N/A";
 }
 
-function getStartClick(){
+function getStartClick() {
   fetch("json/data.json")
     .then((response) => {
       if (!response.ok) {
@@ -39,7 +39,7 @@ function getStartClick(){
           '<div class="text-red-600 text-center py-8">Failed to load quiz data. Please ensure "json/data.json" exists and is correctly formatted.</div>';
       }
     });
-};
+}
 // --- 2. GLOBAL STATE ---
 const $app = document.getElementById("app");
 let quizQuestions = [];
@@ -68,18 +68,30 @@ function shuffleArray(array) {
  */
 function getDistractors(pool, correctValue, choiceKey, count = 3) {
   const distractors = [];
-  
+  const kanjiRequiredByQuestion =
+    config.questionType === "kanji" || config.choiceType === "kanji";
   // FIX: Use getValueForKey for filtering to consistently handle 'kana' type
-  const incorrectItems = pool.filter(
-    (item) => getValueForKey(item, choiceKey) !== correctValue
-  );
+  const incorrectItems = pool.filter((item) => {
+    // getValueForKey(item, choiceKey) !== correctValue
+    const isIncorrect = getValueForKey(item, choiceKey) !== correctValue;
+
+    if (!isIncorrect) return false;
+
+    if (kanjiRequiredByQuestion) {
+      return item.kanji !== "";
+    }
+
+    return true;
+  });
 
   // Ensure we have enough items to choose from
   if (incorrectItems.length < count) {
     // If not enough unique items, return what we have (this is rare for real-world apps)
     shuffleArray(incorrectItems);
     // FIX: Use getValueForKey when mapping the final selection
-    return incorrectItems.slice(0, count).map((item) => getValueForKey(item, choiceKey));
+    return incorrectItems
+      .slice(0, count)
+      .map((item) => getValueForKey(item, choiceKey));
   }
 
   // Pick 'count' unique random indices
@@ -91,8 +103,8 @@ function getDistractors(pool, correctValue, choiceKey, count = 3) {
 
   // Map indices back to values
   // FIX: Use getValueForKey when mapping the final selection
-  const selectedDistractors = Array.from(indices).map(
-    (i) => getValueForKey(incorrectItems[i], choiceKey)
+  const selectedDistractors = Array.from(indices).map((i) =>
+    getValueForKey(incorrectItems[i], choiceKey)
   );
   return selectedDistractors;
 }
@@ -115,8 +127,8 @@ function renderConfig() {
                 <h2 class="text-2xl font-bold text-center text-gray-800 mb-6">Quiz Configuration</h2>
 
                 <!-- Question Count -->
-                <div class="mb-6 p-4 border border-indigo-200 rounded-lg bg-indigo-50">
-                    <h3 class="font-semibold text-lg text-indigo-700 mb-3">1. Select Question Count</h3>
+                <div class="mb-6 px-4 py-3 border border-indigo-200 rounded-lg bg-indigo-50">
+                    <h3 class="font-semibold text-md text-indigo-700 mb-2">1. Select Question Count</h3>
                     <div class="flex flex-wrap gap-3" id="count-options">
                         ${[10, 20, 30, initialData.length]
                           .map(
@@ -136,8 +148,8 @@ function renderConfig() {
                 </div>
 
                 <!-- Chapter Selection -->
-                <div class="mb-6 p-4 border border-indigo-200 rounded-lg bg-indigo-50">
-                    <h3 class="font-semibold text-lg text-indigo-700 mb-3">2. Select Chapters (Required)</h3>
+                <div class="mb-6  px-4 py-3 border border-indigo-200 rounded-lg bg-indigo-50">
+                    <h3 class="font-semibold text-md text-indigo-700 mb-2">2. Select Chapters (Required)</h3>
                     <div class="flex flex-wrap gap-3" id="chapter-options">
                         ${[...new Set(initialData.map((item) => item.chapter))]
                           .sort()
@@ -155,19 +167,19 @@ function renderConfig() {
 
                 <!-- Question/Choice Types -->
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-                    <div class="p-4 border border-indigo-200 rounded-lg bg-indigo-50">
-                        <h3 class="font-semibold text-lg text-indigo-700 mb-3">3. Question Type (The Prompt)</h3>
+                    <div class=" px-4 py-3 border border-indigo-200 rounded-lg bg-indigo-50">
+                        <h3 class="font-semibold text-md text-indigo-700 mb-2">3. Question (Prompt)</h3>
                         <div class="space-y-2" id="question-type-options">
                             ${questionTypes
                               .map(
                                 (type) => `
                                 <label class="block text-sm">
                                     <input type="radio" name="question-type" value="${type}" class="form-radio text-indigo-600 h-4 w-4" ${
-                                      type === "kana" ? "checked" : ""
-                                    }>
+                                  type === "kana" ? "checked" : ""
+                                }>
                                     <span class="ml-2 capitalize">${type.replace(
                                       "kana",
-                                      "Kana (Hiragana / Katakana)"
+                                      "Hiragana / Katakana"
                                     )}</span>
                                 </label>
                             `
@@ -176,18 +188,18 @@ function renderConfig() {
                         </div>
                     </div>
                     <div class="p-4 border border-indigo-200 rounded-lg bg-indigo-50">
-                        <h3 class="font-semibold text-lg text-indigo-700 mb-3">4. Choice Type (The Answer)</h3>
+                        <h3 class="font-semibold text-md text-indigo-700 mb-2">4. Answer (Choice)</h3>
                         <div class="space-y-2" id="choice-type-options">
                             ${choiceTypes
                               .map(
                                 (type) => `
                                 <label class="block text-sm">
                                     <input type="radio" name="choice-type" value="${type}" class="form-radio text-indigo-600 h-4 w-4" ${
-                                      type === "meaning" ? "checked" : ""
-                                    }>
+                                  type === "meaning" ? "checked" : ""
+                                }>
                                     <span class="ml-2 capitalize">${type.replace(
                                       "kana",
-                                      "Kana (Hiragana / Katakana)"
+                                      "Hiragana / Katakana"
                                     )}</span>
                                 </label>
                             `
@@ -240,9 +252,13 @@ function setupQuiz() {
   config.choiceType = choiceTypeEl.value;
 
   // 2. Filter data by selected chapters
-  let filteredData = initialData.filter((item) =>
-    config.chapters.includes(item.chapter)
-  );
+  let filteredData = initialData.filter((item) => {
+    if (config.questionType == "kanji" || config.choiceType == "kanji") {
+      return config.chapters.includes(item.chapter) && item.kanji !== "";
+    } else {
+      return config.chapters.includes(item.chapter);
+    }
+  });
 
   // 3. Select random questions up to the requested count
   shuffleArray(filteredData);
@@ -282,10 +298,10 @@ function renderQuizQuestion() {
   }
 
   const currentItem = quizQuestions[currentQuestionIndex];
-  
+
   // FIX: Use getValueForKey to get the question text, handling 'kana' type
   const questionText = getValueForKey(currentItem, config.questionType);
-  
+
   // FIX: Use getValueForKey to get the correct answer value, handling 'kana' type
   const correctAnswer = getValueForKey(currentItem, config.choiceType);
 
@@ -336,10 +352,10 @@ function renderQuizQuestion() {
                 </div>
 
                 <!-- Increased space for feedback, which now includes details -->
-                <div id="feedback" class="mt-6 text-center"></div> 
                 <button id="next-btn" class="w-full py-3 mt-6 bg-gray-400 text-white font-bold rounded-xl cursor-not-allowed" disabled>
                     Next Question
                 </button>
+                <div id="feedback" class="mt-6 text-center"></div> 
             `;
 
   // 4. Attach event listeners to choice buttons
@@ -460,7 +476,7 @@ function renderResults() {
                     </p>
 
                     <!-- Using window.location.reload() simplifies returning to the initial config state cleanly -->
-                    <button onclick="window.location.reload()" class="w-full mb-3 py-3 bg-indigo-600 text-white font-bold rounded-xl hover:bg-indigo-700 transition duration-150">
+                    <button onclick="getStartClick();" class="w-full mb-3 py-3 bg-indigo-600 text-white font-bold rounded-xl hover:bg-indigo-700 transition duration-150">
                         <span class="mr-2">&#x21BB;</span> Restart Quiz / Go to Home
                     </button>
                 </div>
@@ -470,4 +486,4 @@ function renderResults() {
 // --- 5. INITIALIZATION ---
 // The fetch block now handles the initial call to renderConfig.
 
-getStartClick(); // Call the initial function to start data fetching
+// getStartClick(); // Call the initial function to start data fetching
