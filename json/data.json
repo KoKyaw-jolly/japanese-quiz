@@ -420,7 +420,7 @@
         "katakana": "シャープペンシル",
         "romaji": "shaapupenshiru",
         "kanji": "",
-        "meaning": "ဆံဘောပင်",
+        "meaning": "ခဲဆံဘောပင်",
         "chapter": "Ch-2"
     },
     {
@@ -1486,5 +1486,469 @@
     "kanji": "",
     "meaning": "လန်ဒန်",
     "chapter": "Ch-4"
+  },
+  {
+    "hirakana": "いきます",
+    "katakana": "",
+    "romaji": "ikimasu",
+    "kanji": "行きます",
+    "meaning": "သွားသည်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "きます",
+    "katakana": "",
+    "romaji": "kimasu",
+    "kanji": "来ます",
+    "meaning": "လာသည်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "かえります",
+    "katakana": "",
+    "romaji": "kaerimasu",
+    "kanji": "帰ります",
+    "meaning": "ပြန်သည်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "がっこう",
+    "katakana": "",
+    "romaji": "gakkou",
+    "kanji": "学校",
+    "meaning": "ကျောင်း",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "",
+    "katakana": "スーパー",
+    "romaji": "suupaa",
+    "kanji": "",
+    "meaning": "စူပါမားကတ်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "えき",
+    "katakana": "",
+    "romaji": "eki",
+    "kanji": "駅",
+    "meaning": "ဘူတာ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ひこうき",
+    "katakana": "",
+    "romaji": "hikouki",
+    "kanji": "飛行機",
+    "meaning": "လေယာဉ်ပျံ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ふね",
+    "katakana": "",
+    "romaji": "fune",
+    "kanji": "船",
+    "meaning": "သင်္ဘော",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "でんしゃ",
+    "katakana": "",
+    "romaji": "densha",
+    "kanji": "電車",
+    "meaning": "ရထား",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ちかてつ",
+    "katakana": "",
+    "romaji": "chikatetsu",
+    "kanji": "地下鉄",
+    "meaning": "မြေအောက်ရထား",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "しんかんせん",
+    "katakana": "",
+    "romaji": "shinkansen",
+    "kanji": "新幹線",
+    "meaning": "ကျည်ဆန်ရထား",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "",
+    "katakana": "バス",
+    "romaji": "basu",
+    "kanji": "",
+    "meaning": "ဘစ်စ်ကား (bus)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "",
+    "katakana": "タクシー",
+    "romaji": "takushii",
+    "kanji": "",
+    "meaning": "တက္ကစီ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "じてんしゃ",
+    "katakana": "",
+    "romaji": "jitensha",
+    "kanji": "自転車",
+    "meaning": "စက်ဘီး",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "あるいて",
+    "katakana": "",
+    "romaji": "aruite",
+    "kanji": "歩いて",
+    "meaning": "လမ်းလျောက်ပြီး",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ひと",
+    "katakana": "",
+    "romaji": "hito",
+    "kanji": "人",
+    "meaning": "လူ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ともだち",
+    "katakana": "",
+    "romaji": "tomodachi",
+    "kanji": "友達",
+    "meaning": "သူငယ်ချင်း",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "かれ",
+    "katakana": "",
+    "romaji": "kare",
+    "kanji": "彼",
+    "meaning": "သူ (ယောကျ်ားလေးချစ်သူ)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "かのじょ",
+    "katakana": "",
+    "romaji": "kanojo",
+    "kanji": "彼女",
+    "meaning": "သူမ ( မိန်းကလေးချစ်သူ)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "かぞく",
+    "katakana": "",
+    "romaji": "kazoku",
+    "kanji": "家族",
+    "meaning": "မိသားစု",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ひとりで",
+    "katakana": "",
+    "romaji": "hitoride",
+    "kanji": "一人で",
+    "meaning": "တစ်ယောက်ထဲ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "せんしゅう",
+    "katakana": "",
+    "romaji": "senshuu",
+    "kanji": "先週",
+    "meaning": "ပြီးခဲ့တဲ့အပတ်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "こんしゅう",
+    "katakana": "",
+    "romaji": "konshuu",
+    "kanji": "今週",
+    "meaning": "ဒီအပတ်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "らいしゅう",
+    "katakana": "",
+    "romaji": "raishuu",
+    "kanji": "来週",
+    "meaning": "လာမဲ့အပတ်/နောက်အပတ်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "せんげつ",
+    "katakana": "",
+    "romaji": "sengetsu",
+    "kanji": "先月",
+    "meaning": "ပြီးခဲ့တဲ့လ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "こんげつ",
+    "katakana": "",
+    "romaji": "kongetsu",
+    "kanji": "今月",
+    "meaning": "ဒီလ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "らいげつ",
+    "katakana": "",
+    "romaji": "raigetsu",
+    "kanji": "来月",
+    "meaning": "လာမဲ့လ/နောက်လ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "きょねん",
+    "katakana": "",
+    "romaji": "kyonen",
+    "kanji": "去年",
+    "meaning": "ပြီးခဲ့တဲ့နှစ်/မနှစ်က",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ことし",
+    "katakana": "",
+    "romaji": "kotoshi",
+    "kanji": "今年",
+    "meaning": "ဒီနှစ်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "らいねん",
+    "katakana": "",
+    "romaji": "rainen",
+    "kanji": "来年",
+    "meaning": "လာမဲ့နှစ်/နောက်နှစ်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "〜ねん",
+    "katakana": "",
+    "romaji": "~nen",
+    "kanji": "〜年",
+    "meaning": "〜နှစ် (ခုနှစ်သက္ကရာဇ်)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "なんねん",
+    "katakana": "",
+    "romaji": "nan'nen",
+    "kanji": "何年",
+    "meaning": "ဘယ်နှစ်လဲ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "〜がつ",
+    "katakana": "",
+    "romaji": "~gatsu",
+    "kanji": "〜月",
+    "meaning": "〜လ (ပြကဒိန်လ)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "なんがつ",
+    "katakana": "",
+    "romaji": "nan'gatsu",
+    "kanji": "何月",
+    "meaning": "ဘယ်လလဲ",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ついたち",
+    "katakana": "",
+    "romaji": "tsuitachi",
+    "kanji": "一日",
+    "meaning": "၁ ရက်နေ့ / ၁ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ふつか",
+    "katakana": "",
+    "romaji": "futsuka",
+    "kanji": "二日",
+    "meaning": "၂ ရက်နေ့ / ၂ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "みっか",
+    "katakana": "",
+    "romaji": "mikka",
+    "kanji": "三日",
+    "meaning": "၃ ရက်နေ့ / ၃ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "よっか",
+    "katakana": "",
+    "romaji": "yokka",
+    "kanji": "四日",
+    "meaning": "၄ ရက်နေ့ / ၄ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "いつか",
+    "katakana": "",
+    "romaji": "itsuka",
+    "kanji": "五日",
+    "meaning": "၅ ရက်နေ့ / ၅ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "むいか",
+    "katakana": "",
+    "romaji": "muika",
+    "kanji": "六日",
+    "meaning": "၆ ရက်နေ့ / ၆ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "なのか",
+    "katakana": "",
+    "romaji": "nanoka",
+    "kanji": "七日",
+    "meaning": "၇ ရက်နေ့ / ၇ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ようか",
+    "katakana": "",
+    "romaji": "youka",
+    "kanji": "八日",
+    "meaning": "၈ ရက်နေ့ / ၈ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ここのか",
+    "katakana": "",
+    "romaji": "kokonoka",
+    "kanji": "九日",
+    "meaning": "၉ ရက်နေ့ / ၉ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "とおか",
+    "katakana": "",
+    "romaji": "tooka",
+    "kanji": "十日",
+    "meaning": "၁၀ ရက်နေ့ / ၁၀ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "じゅうよっか",
+    "katakana": "",
+    "romaji": "juuyokka",
+    "kanji": "十四日",
+    "meaning": "၁၄ ရက်နေ့ / ၁၄ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "はつか",
+    "katakana": "",
+    "romaji": "hatsuka",
+    "kanji": "二十日",
+    "meaning": "၂၀ ရက်နေ့ / ၂၀ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "にじゅうよっか",
+    "katakana": "",
+    "romaji": "nijuuyokka",
+    "kanji": "二十四日",
+    "meaning": "၂၄ ရက်နေ့ / ၂၄ ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "〜にち",
+    "katakana": "",
+    "romaji": "~nichi",
+    "kanji": "〜日",
+    "meaning": "〜ရက်နေ့ / 〜ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "なんにち",
+    "katakana": "",
+    "romaji": "nan'nichi",
+    "kanji": "何日",
+    "meaning": "ဘယ်နေ့ / ဘယ်ရက်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "いつ",
+    "katakana": "",
+    "romaji": "itsu",
+    "kanji": "",
+    "meaning": "ဘယ်ချိန် / ဘယ်တော့",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "たんじょうび",
+    "katakana": "",
+    "romaji": "tanjoubi",
+    "kanji": "誕生日",
+    "meaning": "မွေးနေ့",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "そうですね",
+    "katakana": "",
+    "romaji": "sou desu ne",
+    "kanji": "",
+    "meaning": "ဟုတ်တယ်နော်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "どう いたしまして",
+    "katakana": "",
+    "romaji": "dou itashimashite",
+    "kanji": "",
+    "meaning": "မဟုတ်တာ၊ ရပါတယ်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "〜ばんせん",
+    "katakana": "",
+    "romaji": "~bansen",
+    "kanji": "〜番線",
+    "meaning": "〜စကြင်္န် (ဘူတာနံမည်နောက်တွင်သုံး)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "つぎの",
+    "katakana": "",
+    "romaji": "tsugi no",
+    "kanji": "次の",
+    "meaning": "နောက်လာမည့်",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "ふつう",
+    "katakana": "",
+    "romaji": "futsuu",
+    "kanji": "普通",
+    "meaning": "ရိုးရိုး (ရထားအမျိုးအစား)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "きゅうこう",
+    "katakana": "",
+    "romaji": "kyuukou",
+    "kanji": "急行",
+    "meaning": "အမြန် (ရထားအမျိုးအစား)",
+    "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "とっきゅう",
+    "katakana": "",
+    "romaji": "tokkyuu",
+    "kanji": "特急",
+    "meaning": "အထူးအမြန် (ရထားအမျိုးအစား)",
+    "chapter": "Ch-5"
   }
 ]
