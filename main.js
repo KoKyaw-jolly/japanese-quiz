@@ -16,7 +16,7 @@ function getValueForKey(item, key) {
   return item[key] || "N/A";
 }
 
-function getStartClick() {
+function getStartQuizClick() {
   fetch("json/data.json")
     .then((response) => {
       if (!response.ok) {
@@ -476,7 +476,7 @@ function renderResults() {
                     </p>
 
                     <!-- Using window.location.reload() simplifies returning to the initial config state cleanly -->
-                    <button onclick="getStartClick();" class="w-full mb-3 py-3 bg-indigo-600 text-white font-bold rounded-xl hover:bg-indigo-700 transition duration-150">
+                    <button onclick="getStartQuizClick();" class="w-full mb-3 py-3 bg-indigo-600 text-white font-bold rounded-xl hover:bg-indigo-700 transition duration-150">
                         <span class="mr-2">&#x21BB;</span> Restart Quiz / Go to Home
                     </button>
                 </div>
@@ -486,4 +486,8 @@ function renderResults() {
 // --- 5. INITIALIZATION ---
 // The fetch block now handles the initial call to renderConfig.
 
-// getStartClick(); // Call the initial function to start data fetching
+// getStartQuizClick(); // Call the initial function to start data fetching
+
+function getStartMeaningClick() {
+  window.location.href = "html/meaning.html";
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customizable Japanese Vocabulary Quiz</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="../style.css"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="bg-gray-50 min-h-screen flex items-center justify-center font-sans p-3">
+    <div id="meaningApp" class="w-full max-w-5xl bg-white rounded-xl shadow-2xl p-6 md:p-8 border border-gray-200 mt-6">
+        <h1 class="text-3xl font-extrabold text-center text-indigo-700 mb-6">ဂျပန်ဝေါဟာရ လေ့လာရေး</h1>
+
+        <!-- Chapter ရွေးချယ်မှု -->
+        <div
+            class="flex flex-col md:flex-row justify-between items-center mb-6 p-4 bg-indigo-50 rounded-lg border border-indigo-200">
+            <label for="chapter-select" class="text-indigo-700 font-semibold mb-2 md:mb-0 md:mr-4">Chapter
+                ရွေးပါ:</label>
+            <select id="chapter-select" onchange="changeChapter('select')"
+                class="p-2 border border-indigo-400 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 bg-white w-full md:w-auto">
+                <!-- Options များကို JS ဖြင့် ဖြည့်သွင်းမည် -->
+            </select>
+            <span name="current-chapter-display"
+                class="current-chapter-display mt-2 md:mt-0 text-indigo-600 font-medium text-sm"></span>
+        </div>
+
+        <!-- ဝေါဟာရ ဇယားပြသရာ နေရာ -->
+        <div id="meaningContent" class="bg-white shadow-lg rounded-xl overflow-hidden">
+            <div class="overflow-x-auto">
+                <table class="min-w-full divide-y divide-gray-200">
+                    <thead class="bg-indigo-600 text-white">
+                        <tr>
+                            <th class="table-cell font-bold uppercase tracking-wider w-1/4">Hiragana / Katakana</th>
+                            <th class="table-cell font-bold uppercase tracking-wider w-2/5">Meaning</th>
+                            <th class="table-cell font-bold uppercase tracking-wider w-1/5">Romaji</th>
+                            <th class="table-cell font-bold uppercase tracking-wider w-1/5">Kanji</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vocabulary-table-body" class="bg-white divide-y divide-gray-100">
+                        <tr>
+                            <td colspan="4" class="p-8 text-center text-gray-500 font-medium">Loading...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Navigation Buttons -->
+        <div class="flex justify-between mt-6">
+            <button id="prev-button" onclick="changeChapter('prev')"
+                class="px-4 py-2 bg-gray-300 text-gray-800 font-semibold rounded-lg shadow-md hover:bg-gray-400 transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+                &larr; Previous Chapter
+            </button>
+            <button id="next-button" onclick="changeChapter('next')"
+                class="px-4 py-2 bg-indigo-600 text-white font-semibold rounded-lg shadow-md hover:bg-indigo-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+                Next Chapter &rarr;
+            </button>
+        </div>
+
+        <footer class="text-center mt-6 text-sm text-gray-500 pt-4 border-t">
+            <span name="current-chapter-display"
+                class="current-chapter-display mt-2 md:mt-0 text-indigo-600 font-medium text-sm"></span>
+            <p>Total : <span id="item-count" class="font-semibold">0</span></p>
+        </footer>
+
+        <script src="../js/meaning.js"></script>
+</body>
+
+</html>
