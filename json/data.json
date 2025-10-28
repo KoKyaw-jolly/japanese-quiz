@@ -1950,5 +1950,405 @@
     "kanji": "特急",
     "meaning": "အထူးအမြန် (ရထားအမျိုးအစား)",
     "chapter": "Ch-5"
+  },
+  {
+    "hirakana": "たべます",
+    "katakana": "",
+    "romaji": "tabemasu",
+    "kanji": "食べます",
+    "meaning": "စားသည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "のみます",
+    "katakana": "",
+    "romaji": "nomimasu",
+    "kanji": "飲みます",
+    "meaning": "သောက်သည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "すいます",
+    "katakana": "",
+    "romaji": "suimasu",
+    "kanji": "吸います",
+    "meaning": "သောက်သည် (ဆေးလိပ်)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "たばこ",
+    "katakana": "",
+    "romaji": "tabako",
+    "kanji": "",
+    "meaning": "ဆေးလိပ်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "みます",
+    "katakana": "",
+    "romaji": "mimasu",
+    "kanji": "見ます",
+    "meaning": "ကြည့်သည် / မြင်သည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ききます",
+    "katakana": "",
+    "romaji": "kikimasu",
+    "kanji": "聞きます",
+    "meaning": "နားထောင်သည် / မေးမြန်းသည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "よみます",
+    "katakana": "",
+    "romaji": "yomimasu",
+    "kanji": "読みます",
+    "meaning": "ဖတ်သည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "かきます",
+    "katakana": "",
+    "romaji": "kakimasu",
+    "kanji": "書きます",
+    "meaning": "ရေးသည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "かいます",
+    "katakana": "",
+    "romaji": "kaimasu",
+    "kanji": "買います",
+    "meaning": "ဝယ်သည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "とります",
+    "katakana": "",
+    "romaji": "torimasu",
+    "kanji": "撮ります",
+    "meaning": "ဓာတ်ပုံရိုက်သည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "しゃしん",
+    "katakana": "",
+    "romaji": "shashin",
+    "kanji": "写真",
+    "meaning": "ဓာတ်ပုံ (photo)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "します",
+    "katakana": "",
+    "romaji": "shimasu",
+    "kanji": "",
+    "meaning": "ပြုလုပ်သည် / လုပ်ဆောင်သည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "あいます",
+    "katakana": "",
+    "romaji": "aimasu",
+    "kanji": "会います",
+    "meaning": "တွေ့သည် (တစ်ဦးတစ်ယောက်နှင့်)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ごはん",
+    "katakana": "",
+    "romaji": "gohan",
+    "kanji": "ご飯",
+    "meaning": "ထမင်း",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "あさごはん",
+    "katakana": "",
+    "romaji": "asagohan",
+    "kanji": "朝ご飯",
+    "meaning": "မနက်စာ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ひるごはん",
+    "katakana": "",
+    "romaji": "hirugohan",
+    "kanji": "昼ご飯",
+    "meaning": "နေ့လည်စာ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ばんごはん",
+    "katakana": "",
+    "romaji": "bangohan",
+    "kanji": "晩ご飯",
+    "meaning": "ညစာ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "パン",
+    "romaji": "pan",
+    "kanji": "",
+    "meaning": "ပေါင်မုန့်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "たまご",
+    "katakana": "",
+    "romaji": "tamago",
+    "kanji": "卵",
+    "meaning": "ဥ / ကြက်ဥ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "にく",
+    "katakana": "",
+    "romaji": "niku",
+    "kanji": "肉",
+    "meaning": "အသား",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "さかな",
+    "katakana": "",
+    "romaji": "sakana",
+    "kanji": "魚",
+    "meaning": "ငါး",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "やさい",
+    "katakana": "",
+    "romaji": "yasai",
+    "kanji": "野菜",
+    "meaning": "ဟင်းသီးဟင်းရွက်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "くだもの",
+    "katakana": "",
+    "romaji": "kudamono",
+    "kanji": "果物",
+    "meaning": "သစ်သီး",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "みず",
+    "katakana": "",
+    "romaji": "mizu",
+    "kanji": "水",
+    "meaning": "ရေ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "おちゃ",
+    "katakana": "",
+    "romaji": "ocha",
+    "kanji": "お茶",
+    "meaning": "လက်ဖက်ရည်ကြမ်း / ရေနွေကြမ်း",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "こうちゃ",
+    "katakana": "",
+    "romaji": "koucha",
+    "kanji": "紅茶",
+    "meaning": "လက်ဖက်ရည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ぎゅうにゅう",
+    "katakana": "ミルク",
+    "romaji": "gyuunyuu / miruku",
+    "kanji": "牛乳",
+    "meaning": "နွားနို့",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ジュース",
+    "romaji": "juusu",
+    "kanji": "",
+    "meaning": "ဖျော်ရည်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ビール",
+    "romaji": "biiru",
+    "kanji": "",
+    "meaning": "ဘီယာ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "「お」さけ",
+    "katakana": "",
+    "romaji": "[o]sake",
+    "kanji": "「お」酒",
+    "meaning": "အရက်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "てがみ",
+    "katakana": "",
+    "romaji": "tegami",
+    "kanji": "手紙",
+    "meaning": "စာ (ပေးစာ/ပြန်စာ)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "レポート",
+    "romaji": "repooto",
+    "kanji": "",
+    "meaning": "အစီရင်ခံစာ / ရီပို့",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ビデオ",
+    "romaji": "bideo",
+    "kanji": "",
+    "meaning": "ဗီဒီယိုတိပ် / ဗီဒီယိုစက်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "みせ",
+    "katakana": "",
+    "romaji": "mise",
+    "kanji": "店",
+    "meaning": "ဆိုင်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "にわ",
+    "katakana": "",
+    "romaji": "niwa",
+    "kanji": "庭",
+    "meaning": "ခြံ / ခြံဝန်း",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "しゅくだい",
+    "katakana": "",
+    "romaji": "shukudai",
+    "kanji": "宿題",
+    "meaning": "အိမ်စာ (〜をします)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "テニス",
+    "romaji": "tenisu",
+    "kanji": "",
+    "meaning": "တင်းနစ် (〜をします)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "サッカー",
+    "romaji": "sakkaa",
+    "kanji": "",
+    "meaning": "ဘောလုံး (〜をします)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "「お」はなみ",
+    "katakana": "",
+    "romaji": "[o]hanami",
+    "kanji": "「お」花見",
+    "meaning": "ပန်းကြည့်ခြင်း (〜をします)",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "なに",
+    "katakana": "",
+    "romaji": "nani",
+    "kanji": "何",
+    "meaning": "ဘာ / ဘာလဲ / ဘာကြီးလဲ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "いっしょに",
+    "katakana": "",
+    "romaji": "isshoni",
+    "kanji": "一緒に",
+    "meaning": "အတူတူ / အတူတကွ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ちょっと",
+    "katakana": "",
+    "romaji": "chotto",
+    "kanji": "",
+    "meaning": "ခဏ / နည်းနည်း",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "いつも",
+    "katakana": "",
+    "romaji": "itsumo",
+    "kanji": "",
+    "meaning": "အမြဲတမ်း",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ときどき",
+    "katakana": "",
+    "romaji": "tokidoki",
+    "kanji": "時々",
+    "meaning": "တစ်ခါတစ်ရံ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "それから",
+    "katakana": "",
+    "romaji": "sorekara",
+    "kanji": "",
+    "meaning": "အဲ့ဒိနောက် ထို့နောက်",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "ええ",
+    "katakana": "",
+    "romaji": "ee",
+    "kanji": "",
+    "meaning": "အင်း / အေး",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "いいですね",
+    "katakana": "",
+    "romaji": "ii desu ne",
+    "kanji": "",
+    "meaning": "ကောင်းတယ်နော် / ကောင်းတာပေါ့",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "わかりました",
+    "katakana": "",
+    "romaji": "wakarimashita",
+    "kanji": "分かりました",
+    "meaning": "ကောင်းပါပြီ / နားလည်ပါပြီ",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "じゃ、またあした",
+    "katakana": "",
+    "romaji": "ja, mata ashita",
+    "kanji": "",
+    "meaning": "ဒါဖြင့်၊ မနက်ဖြန်တွေ့ကြတာပေါ့။",
+    "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "",
+    "katakana": "メキシコ",
+    "romaji": "mekishiko",
+    "kanji": "",
+    "meaning": "မက်ဆီကို",
+    "chapter": "Ch-6"
   }
 ]
