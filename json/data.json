@@ -2350,5 +2350,821 @@
     "kanji": "",
     "meaning": "မက်ဆီကို",
     "chapter": "Ch-6"
+  },
+  {
+    "hirakana": "きります",
+    "katakana": "",
+    "romaji": "kirimasu",
+    "kanji": "切ります",
+    "meaning": "ဖြတ်သည် / ညှပ်သည် / လှီးသည်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "おくります",
+    "katakana": "",
+    "romaji": "okurimasu",
+    "kanji": "送ります",
+    "meaning": "ပို့သည်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "あげます",
+    "katakana": "",
+    "romaji": "agemasu",
+    "kanji": "あげます",
+    "meaning": "ပေးသည် ( ကိုယ်ကပေး )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "もらいます",
+    "katakana": "",
+    "romaji": "moraimasu",
+    "kanji": "もらいます",
+    "meaning": "လက်ခံရယူသည်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "かします",
+    "katakana": "",
+    "romaji": "kashimasu",
+    "kanji": "貸します",
+    "meaning": "ချေး/ငှား သည် ( ပေးသည် )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "かります",
+    "katakana": "",
+    "romaji": "karimasu",
+    "kanji": "借ります",
+    "meaning": "ချေး/ငှား ယူသည် ( ယူသည် )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "おしえます",
+    "katakana": "",
+    "romaji": "oshiemasu",
+    "kanji": "教えます",
+    "meaning": "သင်သည် ( ပေးသည် )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "ならいます",
+    "katakana": "",
+    "romaji": "naraimasu",
+    "kanji": "習います",
+    "meaning": "သင်သည် ( ယူသည် )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "かけます",
+    "katakana": "",
+    "romaji": "kakemasu",
+    "kanji": "かけます",
+    "meaning": "ဆက်သည် ( telephone )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "て",
+    "katakana": "",
+    "romaji": "te",
+    "kanji": "手",
+    "meaning": "လက်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "はし",
+    "katakana": "",
+    "romaji": "hashi",
+    "kanji": "箸",
+    "meaning": "တူ ( စားသောက်သည့် )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "スプーン",
+    "romaji": "supuun",
+    "kanji": "",
+    "meaning": "ဇွန်း",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ナイフ",
+    "romaji": "naifu",
+    "kanji": "",
+    "meaning": "ဓား",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "フォーク",
+    "romaji": "fooku",
+    "kanji": "",
+    "meaning": "ခက်ရင်း",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "はさみ",
+    "katakana": "",
+    "romaji": "hasami",
+    "kanji": "",
+    "meaning": "ကတ်ကြေး",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "パソコン",
+    "romaji": "pasokon",
+    "kanji": "",
+    "meaning": "ကွန်ပြူတာ ( personal computer )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ケータイ",
+    "romaji": "keetai",
+    "kanji": "",
+    "meaning": "မိုဘိုင်းဖုန်း",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "メール",
+    "romaji": "meeru",
+    "kanji": "",
+    "meaning": "အီးမေလ်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "ねんがじょう",
+    "katakana": "",
+    "romaji": "nengajou",
+    "kanji": "年賀状",
+    "meaning": "နယူးရီးယား ပို့စ်ကဒ်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "パンチ",
+    "romaji": "panchi",
+    "kanji": "",
+    "meaning": "စက္ကူအပေါက်ဖောက်စက်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ホッチキス",
+    "romaji": "hotchikisu",
+    "kanji": "",
+    "meaning": "စတပ်ပလာ / စက္ကူချုပ်စက်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "セロテープ",
+    "romaji": "seroteepu",
+    "kanji": "",
+    "meaning": "ဆိုလိုတိပ် / ကပ်ရသည့်တိပ်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "けしゴム",
+    "katakana": "",
+    "romaji": "keshigomu",
+    "kanji": "消しゴム",
+    "meaning": "ခဲဖျက်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "かみ",
+    "katakana": "",
+    "romaji": "kami",
+    "kanji": "紙",
+    "meaning": "စက္ကူ / စာရွက်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "はな",
+    "katakana": "",
+    "romaji": "hana",
+    "kanji": "花",
+    "meaning": "ပန်း",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "シャツ",
+    "romaji": "shatsu",
+    "kanji": "",
+    "meaning": "ရှပ် အကျီ",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "プレゼント",
+    "romaji": "purezento",
+    "kanji": "",
+    "meaning": "လက်ဆောင်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "にもつ",
+    "katakana": "",
+    "romaji": "nimotsu",
+    "kanji": "荷物",
+    "meaning": "အထုတ် / အထုတ်အပိုး",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "おかね",
+    "katakana": "",
+    "romaji": "okane",
+    "kanji": "お金",
+    "meaning": "ပိုက်ဆံ / ငွေကြေး",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "きっぷ",
+    "katakana": "",
+    "romaji": "kippu",
+    "kanji": "切符",
+    "meaning": "လက်မှတ်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "クリスマス",
+    "romaji": "kurisumasu",
+    "kanji": "",
+    "meaning": "ခရစ်စမက်စ်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "ちち",
+    "katakana": "",
+    "romaji": "chichi",
+    "kanji": "父",
+    "meaning": "ဖေဖေ ( မိမိ )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "はは",
+    "katakana": "",
+    "romaji": "haha",
+    "kanji": "母",
+    "meaning": "မေမေ ( မိမိ )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "おとうさん",
+    "katakana": "",
+    "romaji": "otousan",
+    "kanji": "お父さん",
+    "meaning": "အဖေ ( မိမိ / သူတစ်ပါး )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "おかあさん",
+    "katakana": "",
+    "romaji": "okaasan",
+    "kanji": "お母さん",
+    "meaning": "မေမေ ( မိမိ / သူတစ်ပါး )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "もう",
+    "katakana": "",
+    "romaji": "mou",
+    "kanji": "",
+    "meaning": "နှင့်ပြီးပြီ ( ပြီးပြီးကိုဆိုလိုသည် )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "まだ",
+    "katakana": "",
+    "romaji": "mada",
+    "kanji": "",
+    "meaning": "( မ ) သေးဘူး",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "これから",
+    "katakana": "",
+    "romaji": "korekara",
+    "kanji": "",
+    "meaning": "အခုချိန်ကစပြီး",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "すてきですね",
+    "katakana": "",
+    "romaji": "suteki desu ne",
+    "kanji": "",
+    "meaning": "လှတယ်နော် / လှလိုက်တာ",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "いらっしゃい",
+    "katakana": "",
+    "romaji": "irasshai",
+    "kanji": "",
+    "meaning": "ကြွပါ",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "どうぞおあがりください",
+    "katakana": "",
+    "romaji": "douzo oagari kudasai",
+    "kanji": "どうぞお上がりください",
+    "meaning": "ဝင်ပါ / ဝင်ခဲ့ပါ",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "しつれいします",
+    "katakana": "",
+    "romaji": "shitsurei shimasu",
+    "kanji": "失礼します",
+    "meaning": "ခွင့်ပြုပါ ( တစ်စုံတစ်ယောက်ဆီသို့တောင်းဆို )",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "[〜は] いかがですか",
+    "katakana": "",
+    "romaji": "[~wa] ikaga desu ka",
+    "kanji": "",
+    "meaning": "ဘယ်လိုသဘောရလဲ / သုံးဆောင်မလား",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "いただきます",
+    "katakana": "",
+    "romaji": "itadakimasu",
+    "kanji": "",
+    "meaning": "စားပါတော့မယ်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "ごちそうさま[でした]",
+    "katakana": "",
+    "romaji": "gochisousama [deshita]",
+    "kanji": "ご馳走様[でした]",
+    "meaning": "ကျွေးမွေးတဲ့အတွက်ကျေးဇူးပါ",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "スペイン",
+    "romaji": "Supein",
+    "kanji": "",
+    "meaning": "စပိန်",
+    "chapter": "Ch-7"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ハンサム「な」",
+    "romaji": "hansamu [na]",
+    "kanji": "",
+    "meaning": "ချောမောသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "きれい「な」",
+    "katakana": "",
+    "romaji": "kirei [na]",
+    "kanji": "奇麗「な」",
+    "meaning": "လှပသော / သန့်ရှင်းသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "しずか「な」",
+    "katakana": "",
+    "romaji": "shizuka [na]",
+    "kanji": "静か「な」",
+    "meaning": "တိတ်ဆိတ်သော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "にぎやか「な」",
+    "katakana": "",
+    "romaji": "nigiyaka [na]",
+    "kanji": "賑やか「な」",
+    "meaning": "စည်ကားသိုက်မြိုက်သော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "ゆうめい「な」",
+    "katakana": "",
+    "romaji": "yuumei [na]",
+    "kanji": "有名「な」",
+    "meaning": "နာမည်ကြီးသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "しんせつ「な」",
+    "katakana": "",
+    "romaji": "shinsetsu [na]",
+    "kanji": "親切「な」",
+    "meaning": "ကြင်နာတတ်သော ( မိမိ မိသားစုအကြောင်းပြောရာတွင်မသုံး )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "げんき「な」",
+    "katakana": "",
+    "romaji": "genki [na]",
+    "kanji": "元気「な」",
+    "meaning": "ကျန်းမာသော / တက်ကြွသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "ひま「な」",
+    "katakana": "",
+    "romaji": "hima [na]",
+    "kanji": "暇「な」",
+    "meaning": "အားလပ်သော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "べんり「な」",
+    "katakana": "",
+    "romaji": "benri [na]",
+    "kanji": "便利「な」",
+    "meaning": "အဆင်ပြေသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "すてき「な」",
+    "katakana": "",
+    "romaji": "suteki [na]",
+    "kanji": "素敵「な」",
+    "meaning": "လှပသော / သပ်ရပ်ခန့်ညားသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "おおきい",
+    "katakana": "",
+    "romaji": "ookii",
+    "kanji": "大きい",
+    "meaning": "ကြီးမားသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "ちいさい",
+    "katakana": "",
+    "romaji": "chiisai",
+    "kanji": "小さい",
+    "meaning": "သေးငယ်သော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "あたらしい",
+    "katakana": "",
+    "romaji": "atarashii",
+    "kanji": "新しい",
+    "meaning": "သစ်လွင် / လတ်ဆတ် သော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "ふるい",
+    "katakana": "",
+    "romaji": "furui",
+    "kanji": "古い",
+    "meaning": "ဟောင်းနွမ်းသော ( လူတွင်မသုံး )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "いい(よい)",
+    "katakana": "",
+    "romaji": "ii (yoi)",
+    "kanji": "良い",
+    "meaning": "ကောင်းသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "わるい",
+    "katakana": "",
+    "romaji": "warui",
+    "kanji": "悪い",
+    "meaning": "ဆိုးသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "あつい",
+    "katakana": "",
+    "romaji": "atsui",
+    "kanji": "暑い / 熱い",
+    "meaning": "အိုက်သော / ပူသော ( ရာသီဥတု / အစားအစာ )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "さむい",
+    "katakana": "",
+    "romaji": "samui",
+    "kanji": "寒い",
+    "meaning": "ချမ်းသော / အေးသော ( ရာသီဥတု )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "つめたい",
+    "katakana": "",
+    "romaji": "tsumetai",
+    "kanji": "冷たい",
+    "meaning": "အေးသော ( အစားအသောက် )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "むずかしい",
+    "katakana": "",
+    "romaji": "muzukashii",
+    "kanji": "難しい",
+    "meaning": "ခက်ခဲသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "やさしい",
+    "katakana": "",
+    "romaji": "yasashii",
+    "kanji": "易しい",
+    "meaning": "လွယ်ကူသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "たかい",
+    "katakana": "",
+    "romaji": "takai",
+    "kanji": "高い",
+    "meaning": "ဈေးကြီးသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "やすい",
+    "katakana": "",
+    "romaji": "yasui",
+    "kanji": "安い",
+    "meaning": "ဈေးပေါသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "ひくい",
+    "katakana": "",
+    "romaji": "hikui",
+    "kanji": "低い",
+    "meaning": "နိမ့်သော / ပုသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "おもしろい",
+    "katakana": "",
+    "romaji": "omoshiroi",
+    "kanji": "面白い",
+    "meaning": "စိတ်ဝင်စားစရာကောင်းသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "おいしい",
+    "katakana": "",
+    "romaji": "oishii",
+    "kanji": "美味しい",
+    "meaning": "စားကောင်းသော / အရသာရှိသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "いそがしい",
+    "katakana": "",
+    "romaji": "isogashii",
+    "kanji": "忙しい",
+    "meaning": "အလုပ်များသော / မအားလပ်သော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "たのしい",
+    "katakana": "",
+    "romaji": "tanoshii",
+    "kanji": "楽しい",
+    "meaning": "ပျော်စရာကောင်းသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "しろい",
+    "katakana": "",
+    "romaji": "shiroi",
+    "kanji": "白い",
+    "meaning": "အဖြူ / ဖြူသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "くろい",
+    "katakana": "",
+    "romaji": "kuroi",
+    "kanji": "黒い",
+    "meaning": "အမဲ / မဲသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "あかい",
+    "katakana": "",
+    "romaji": "akai",
+    "kanji": "赤い",
+    "meaning": "အနီ / နီသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "あおい",
+    "katakana": "",
+    "romaji": "aoi",
+    "kanji": "青い",
+    "meaning": "အပြာ / ပြာသော",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "さくら",
+    "katakana": "",
+    "romaji": "sakura",
+    "kanji": "桜",
+    "meaning": "ချယ်ရီ",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "やま",
+    "katakana": "",
+    "romaji": "yama",
+    "kanji": "山",
+    "meaning": "တောင်ကုန်း",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "まち",
+    "katakana": "",
+    "romaji": "machi",
+    "kanji": "町",
+    "meaning": "မြို့",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "たべもの",
+    "katakana": "",
+    "romaji": "tabemono",
+    "kanji": "食べ物",
+    "meaning": "အစားအစာ",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "ところ",
+    "katakana": "",
+    "romaji": "tokoro",
+    "kanji": "所",
+    "meaning": "နေရာ",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "りょう",
+    "katakana": "",
+    "romaji": "ryou",
+    "kanji": "寮",
+    "meaning": "အဆောင်",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "",
+    "katakana": "レストラン",
+    "romaji": "resutoran",
+    "kanji": "",
+    "meaning": "အကြီးစားစားသောက်ဆိုင်",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "せいかつ",
+    "katakana": "",
+    "romaji": "seikatsu",
+    "kanji": "生活",
+    "meaning": "နေထိုင်မှု့ဘဝ",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "「お」しごと",
+    "katakana": "",
+    "romaji": "[o]shigoto",
+    "kanji": "「お」仕事",
+    "meaning": "အလုပ်",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "どう",
+    "katakana": "",
+    "romaji": "dou",
+    "kanji": "",
+    "meaning": "ဘယ်လို ၂",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "どんな",
+    "katakana": "",
+    "romaji": "donna",
+    "kanji": "",
+    "meaning": "ဘယ်လို~မျိုး",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "とても",
+    "katakana": "",
+    "romaji": "totemo",
+    "kanji": "",
+    "meaning": "အလွန်",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "あまり",
+    "katakana": "",
+    "romaji": "amari",
+    "kanji": "",
+    "meaning": "သိပ် ( အငြင်းနဲ့တွဲသုံး )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "そして",
+    "katakana": "",
+    "romaji": "soshite",
+    "kanji": "",
+    "meaning": "နောက်ပြီး / ထို့နောက် ( ဝါကျဆက်ရာတွင်သုံး )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "が",
+    "katakana": "",
+    "romaji": "ga",
+    "kanji": "",
+    "meaning": "~ ပေမဲ့ ~ / ~ သော်လည်း ~",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "おげんきですか",
+    "katakana": "",
+    "romaji": "ogenki desu ka",
+    "kanji": "お元気ですか",
+    "meaning": "နေကောင်းလား",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "そうですね",
+    "katakana": "",
+    "romaji": "sou desu ne",
+    "kanji": "",
+    "meaning": "ဘယ်လိုပြောရမလဲ ( How can I say... ummmm )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "「〜」 もういっぱいいかがですか",
+    "katakana": "",
+    "romaji": "[~] mou ippai ikaga desu ka",
+    "kanji": "",
+    "meaning": "နောက်တစ်ပွဲ / နောက်တစ်ခွက် ( ထပ်ယူဦးမလားမေး )",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "「いいえ、」けっこうです",
+    "katakana": "",
+    "romaji": "[iie,] kekkou desu",
+    "kanji": "",
+    "meaning": "[ဟင့်အင်း] တော်ပြီ",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "もう 〜です「ね」",
+    "katakana": "",
+    "romaji": "mou ~ desu [ne]",
+    "kanji": "",
+    "meaning": "~ ကျ / ရောက် / တန်ပြီ [ပဲ]",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "そろそろ しつれいします",
+    "katakana": "",
+    "romaji": "sorosoro shitsurei shimasu",
+    "kanji": "そろそろ失礼します",
+    "meaning": "ပြန်လိုက်ပါဦးမယ်",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "またいらっしゃってください",
+    "katakana": "",
+    "romaji": "mata irasshatte kudasai",
+    "kanji": "",
+    "meaning": "နောက်ထပ်လာလည်ပါဦး",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "",
+    "katakana": "シャンハイ",
+    "romaji": "shanhai",
+    "kanji": "",
+    "meaning": "ရှန်ဟိုင်း",
+    "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "ふじさん",
+    "katakana": "",
+    "romaji": "fujisan",
+    "kanji": "富士山",
+    "meaning": "ဖူဂျီတောင်",
+    "chapter": "Ch-8"
   }
 ]
