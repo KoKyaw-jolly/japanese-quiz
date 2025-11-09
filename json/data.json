@@ -3166,5 +3166,373 @@
     "kanji": "富士山",
     "meaning": "ဖူဂျီတောင်",
     "chapter": "Ch-8"
+  },
+  {
+    "hirakana": "わかります",
+    "katakana": "",
+    "romaji": "wakarimasu",
+    "kanji": "分かります",
+    "meaning": "နားလည်သဘောပေါက်သည်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "あります",
+    "katakana": "",
+    "romaji": "arimasu",
+    "kanji": "有ります",
+    "meaning": "ရှိသည် ( ပိုင်ဆိုင်ခြင်းပြ )",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "すき「な」",
+    "katakana": "",
+    "romaji": "suki [na]",
+    "kanji": "好き「な」",
+    "meaning": "ကြိုက်သည်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "きらい「な」",
+    "katakana": "",
+    "romaji": "kirai [na]",
+    "kanji": "嫌い「な」",
+    "meaning": "မုန်းသည်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "じょうず「な」",
+    "katakana": "",
+    "romaji": "jouzu [na]",
+    "kanji": "上手「な」",
+    "meaning": "တော်သည်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "へた「な」",
+    "katakana": "",
+    "romaji": "heta [na]",
+    "kanji": "下手「な」",
+    "meaning": "ညံသည်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "のみもの",
+    "katakana": "",
+    "romaji": "nomimono",
+    "kanji": "飲み物",
+    "meaning": "သောက်စရာ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "りょうり",
+    "katakana": "",
+    "romaji": "ryouri",
+    "kanji": "料理",
+    "meaning": "အချက်အပြုတ် / ဟင်းလျာ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "スポーツ",
+    "romaji": "supootsu",
+    "kanji": "",
+    "meaning": "အားကစား",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "やきゅう",
+    "katakana": "",
+    "romaji": "yakyuu",
+    "kanji": "野球",
+    "meaning": "ဘေ့စ်ဘော",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ダンス",
+    "romaji": "dansu",
+    "kanji": "",
+    "meaning": "အက",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "りょこう",
+    "katakana": "",
+    "romaji": "ryokou",
+    "kanji": "旅行",
+    "meaning": "ခရီး",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "おんがく",
+    "katakana": "",
+    "romaji": "ongaku",
+    "kanji": "音楽",
+    "meaning": "ဂီတသံစဉ်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "うた",
+    "katakana": "",
+    "romaji": "uta",
+    "kanji": "歌",
+    "meaning": "တေးသီချင်း",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "クラシック",
+    "romaji": "kurashikku",
+    "kanji": "",
+    "meaning": "ဂန္တဝင်တေးဂီတ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ジャズ",
+    "romaji": "jazu",
+    "kanji": "",
+    "meaning": "ဂျက်စ် ဂီတ ( Jass )",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "コンサート",
+    "romaji": "konsaato",
+    "kanji": "",
+    "meaning": "ဂီတပွဲ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "カラオケ",
+    "romaji": "karaoke",
+    "kanji": "",
+    "meaning": "ကာရာအိုကေ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "かぶき",
+    "katakana": "",
+    "romaji": "kabuki",
+    "kanji": "歌舞伎",
+    "meaning": "ခါဘုခိ (ရိုးရာပြဇာတ်တွေထဲမှတစ်ခု)",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "え",
+    "katakana": "",
+    "romaji": "e",
+    "kanji": "絵",
+    "meaning": "ပန်းချီ / ရုပ်ပုံကားချပ်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "じ",
+    "katakana": "",
+    "romaji": "ji",
+    "kanji": "字",
+    "meaning": "စာလုံး / လက်ရေး လက်သား / အက္ခရာ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "かんじ",
+    "katakana": "",
+    "romaji": "kanji",
+    "kanji": "漢字",
+    "meaning": "ခန်းဂျီး",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "ひらがな",
+    "katakana": "",
+    "romaji": "hiragana",
+    "kanji": "平仮名",
+    "meaning": "ဟီရဂန",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "かたかな",
+    "katakana": "",
+    "romaji": "katakana",
+    "kanji": "片仮名",
+    "meaning": "ခတခန",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "ローマじ",
+    "romaji": "roomaji",
+    "kanji": "ローマ字",
+    "meaning": "ရိုမဂျီး",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "こまかいおかね",
+    "katakana": "",
+    "romaji": "komakai okane",
+    "kanji": "細かいお金",
+    "meaning": "ငွေအကြွေ / အနုတ်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "チケット",
+    "romaji": "chiketto",
+    "kanji": "",
+    "meaning": "လက်မှတ် / ticket",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "じかん",
+    "katakana": "",
+    "romaji": "jikan",
+    "kanji": "時間",
+    "meaning": "အချိန်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "ようじ",
+    "katakana": "",
+    "romaji": "youji",
+    "kanji": "用事",
+    "meaning": "အလုပ် ကိစ္စ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "やくそく",
+    "katakana": "",
+    "romaji": "yakusoku",
+    "kanji": "約束",
+    "meaning": "ဂတိ / ချိန်းထားသောကိစ္စ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "",
+    "katakana": "アルバイト",
+    "romaji": "arubaito",
+    "kanji": "",
+    "meaning": "အချိန်ပိုင်းအလုပ်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "ごしゅじん",
+    "katakana": "",
+    "romaji": "goshujin",
+    "kanji": "ご主人",
+    "meaning": "ယောကျ်ား / ခင်ပွန်း ( တပါးသူ၏ )",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "おっと / しゅじん",
+    "katakana": "",
+    "romaji": "otto / shujin",
+    "kanji": "夫 / 主人",
+    "meaning": "ယောကျ်ား / ခင်ပွန်း ( မိမိ၏ )",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "おくさん",
+    "katakana": "",
+    "romaji": "okusan",
+    "kanji": "奥さん",
+    "meaning": "မိန်းမ / ဇနီး ( တပါးသူ၏ )",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "つま / かない",
+    "katakana": "",
+    "romaji": "tsuma / kanai",
+    "kanji": "妻 / 家内",
+    "meaning": "မိန်းမ / ဇနီး ( မိမိ၏ )",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "こども",
+    "katakana": "",
+    "romaji": "kodomo",
+    "kanji": "子供",
+    "meaning": "ကလေး / သားသမီး",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "よく",
+    "katakana": "",
+    "romaji": "yoku",
+    "kanji": "",
+    "meaning": "ကောင်းကောင်း / ကောင်းစွာ / မကြာခဏ / များများ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "だいたい",
+    "katakana": "",
+    "romaji": "daitai",
+    "kanji": "大体",
+    "meaning": "များသောအားဖြင့် / အကြမ်းအားဖြင့်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "たくさん",
+    "katakana": "",
+    "romaji": "takusan",
+    "kanji": "沢山",
+    "meaning": "များများ / အများကြီး",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "すこし",
+    "katakana": "",
+    "romaji": "sukoshi",
+    "kanji": "少し",
+    "meaning": "နည်းနည်း / အနည်းငယ်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "ぜんぜん",
+    "katakana": "",
+    "romaji": "zenzen",
+    "kanji": "全然",
+    "meaning": "လုံးဝ ( အငြင်း )",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "はやく",
+    "katakana": "",
+    "romaji": "hayaku",
+    "kanji": "早く / 速く",
+    "meaning": "စောစော / မြန်မြန်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "〜から",
+    "katakana": "",
+    "romaji": "~kara",
+    "kanji": "",
+    "meaning": "~ ကြောင့် / ~ သောကြောင့်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "どうして",
+    "katakana": "",
+    "romaji": "doushite",
+    "kanji": "",
+    "meaning": "ဘာကြောင့်",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "かしてください",
+    "katakana": "",
+    "romaji": "kashite kudasai",
+    "kanji": "貸してください",
+    "meaning": "ငှါးပေးပါ / ခဏပေးပါ",
+    "chapter": "Ch-9"
+  },
+  {
+    "hirakana": "ざんねんです",
+    "katakana": "",
+    "romaji": "zannen desu",
+    "kanji": "残念です",
+    "meaning": "စိတ်မကောင်းပါဘူး",
+    "chapter": "Ch-9"
   }
 ]
